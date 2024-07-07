@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align='center'># hello!</h1>
+
+ <h3 align='center'>my name is Maggie Zhang, and I'm a current undergraduate Computer Science major & Informatics minor at the University of California, Irvine.</h3>
+ 
+ <p align='center'>passionate about innovation, interested in automation within edtech and finance.</p>
 
 <!--
 **maggoatt/maggoatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
