@@ -1,4 +1,4 @@
-<h1>Hello! My name is Maggie Zhang.</h1>
+<h2>Hello! My name is Maggie.</h1>
 
  <h3>I'm a current undergraduate Computer Science major & Informatics minor at the University of California, Irvine.</h3>
 
