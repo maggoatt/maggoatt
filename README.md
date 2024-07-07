@@ -1,6 +1,6 @@
 <h2>Hello! My name is Maggie.</h1>
 
- <h3>I'm a current undergraduate Computer Science major & Informatics minor at the University of California, Irvine.</h3>
+ <h3>I'm an undergraduate Computer Science major & Informatics minor at the University of California, Irvine.</h3>
 
  - 🪷 implementing retrieval-augmented generation on LLMs for K-3 science education @ UCI's Digital Learning Lab
  - 🌷 developing full-stack web applications as ProDev Chair @ Management Information Student Society
