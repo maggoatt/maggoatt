@@ -4,6 +4,6 @@
 
  - 🎋 building adaptive conversational agents using native Python, Google Cloud, & OpenAI for research submission @ IDC '25
  - 🌷 fine-tuning LLMs for geospatial research as Algorithmic Engineering Intern @ remote sensing startup
- - 🪷 training Hugging Face models for document generation research @ Boundary RSS
+ - 🪷 refining design and utility patents for software & consumer tech inventions @ Esplin & Associates 
 
-<h4>Passionate about innovation, interested in automation within edtech and finance.</h4>
+<h4>Passionate about innovation, interested in IP for automation within edtech and finance.</h4>
