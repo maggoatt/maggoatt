@@ -5,4 +5,4 @@
  - 🎋 building adaptive conversational agents using native Python, Google Cloud, & OpenAI for research submission @ IDC '25
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates 
 
-<h4>Passionate about innovation, interested in IP for automation and hardware.</h4>
+<h4>Passionate about innovation, interested in software development and IP for automation and hardware.</h4>
