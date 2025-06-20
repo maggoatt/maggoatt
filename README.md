@@ -1,6 +1,6 @@
 <h2>Hello! My name is Maggie.</h1>
 
- <h3>I'm an undergraduate Computer Science major & Informatics minor at the University of California, Irvine.</h3>
+ <h3>I'm an undergrad Computer Science major & Informatics minor at the University of California, Irvine.</h3>
 
 <h5>Currently:</h5>
  - 🎋 building adaptive conversational agents using native Python, Google Cloud, & OpenAI; published @ ACM IDC '25
