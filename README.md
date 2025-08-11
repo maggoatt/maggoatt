@@ -4,10 +4,10 @@
 
 <h5>Currently:</h5>
 
- - 🎋 building adaptive conversational agents using native Python, Google Cloud, & OpenAI; published @ ACM IDC '25
+ - 🎋 exploring DecNef machine learning decoding and graph algorithms @ UCI CNClab
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
   
- - 🌿 instructing students on signal processing and machine learning @ Massachusetts Institute of Technology 
+ - 🌿 building adaptive conversational agents using native Python, Google Cloud, & OpenAI; published @ ACM IDC '25
 
 <h4>Driven by innovation, deeply interested in computer vision research and intellectual property for automation and hardware.</h4>
