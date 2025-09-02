@@ -4,7 +4,7 @@
 
 <h5>Currently:</h5>
 
- - 🎋 exploring DecNef machine learning decoding and graph algorithms @ UCI CNClab
+ - 🎋 exploring the potential of brain-based GNNs, cGCNs, and graph structures in LLMs @ UCI CNClab
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
   
