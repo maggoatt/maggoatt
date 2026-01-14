@@ -4,13 +4,13 @@
 
 <h5>Currently:</h5>
 
- - 🎋 exploring the potential of ML domain adaptation and neural classification with graph neural networks @ UCI CNClab
+ - 🎋 exploring the potential of ML domain adaptation and neural classification with graph/hyper-graph neural networks @ UCI CNClab
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
   
- - 🌱 experimenting with Spark machine learning models in computer vision applications. :P
+ - 🌱 experimenting with Spark machine learning models in computer vision applications
 
- - 🍀 developing (full-stack) to augment your brain. :)
+ - 🍀 incoming sensor and signal processing intern @ APL's Air and Missile Defense sector
 
  <h5>Historically:</h5>
   
