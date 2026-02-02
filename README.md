@@ -4,7 +4,7 @@
 
 <h5>Currently:</h5>
 
- - 🎋 exploring the potential of ML-based neural classification with graph/hyper-graph neural networks @ UCI CNClab
+ - 🎋 exploring the potential of ML-based neural classification with graph/hyper-graph neural networks @ UCI Reflexion Lab
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
 
