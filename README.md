@@ -7,10 +7,8 @@
  - 🎋 exploring the potential of ML-based neural classification with graph/hyper-graph neural networks @ UCI CNClab
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
-  
- - 🌱 experimenting with Spark machine learning models in computer vision applications
 
- - 🍀 incoming sensor and signal processing intern @ APL's Air and Missile Defense sector
+ - 🍀 incoming @ APL's Air and Missile Defense sector
 
  <h5>Historically:</h5>
   
@@ -18,4 +16,4 @@
 
  - 🌷 instructed students on dense convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
 
-<h4>Driven by innovation, deeply interested in computer vision research, and intellectual property for automation and hardware.</h4>
+<h4>Driven by innovation, deeply interested in vision + ML research and intellectual property for automation and hardware.</h4>
