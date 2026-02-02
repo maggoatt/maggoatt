@@ -14,6 +14,6 @@
   
  - 🌿 built adaptive conversational agents using native Python, Google Cloud, & OpenAI; published @ ACM IDC '25
 
- - 🌷 instructed students on dense convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
+ - 🌷 instructed students on convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
 
 <h4>Driven by innovation, deeply interested in vision + ML research and intellectual property for automation and hardware.</h4>
