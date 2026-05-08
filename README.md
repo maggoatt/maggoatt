@@ -16,4 +16,4 @@
 
  - 🌷 instructed students on convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
 
-<h4>Driven by innovation, deeply interested in vision + ML research and intellectual property for automation and hardware.</h4>
+<h4>Driven by innovation, deeply interested in sensors, signals, simulations, and software-focused intellectual property.</h4>
