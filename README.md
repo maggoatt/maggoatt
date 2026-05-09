@@ -12,7 +12,7 @@
 
  <h5>Historically:</h5>
   
- - 🌿 built generation-to-speech (OpenAI API to Whisper) concurrency for live CA-child interaction; published @ ACM IDC '25
+ - 🌿 implemented generation-to-speech concurrency for low-latency agent interactions; published @ ACM IDC '25
 
  - 🌷 instructed students on convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
 
