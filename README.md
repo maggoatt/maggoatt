@@ -8,7 +8,7 @@
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
 
- - 🍀 incoming @ APL's Air and Missile Defense sector; building Generative Adversarial Networks for simulation development
+ - 🍀 incoming @ APL's Air and Missile Defense sector; building training simulations for autonomous missile interceptors
 
  <h5>Historically:</h5>
   
