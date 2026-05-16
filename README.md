@@ -9,8 +9,7 @@
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
 
  - 🍀 incoming @ APL's Air and Missile Defense sector; building GN&C simulations for autonomous missile interceptors
- 
- - 🌼 incoming @ Draper's System Concepts & Design division; developing GN&C systems for hypersonic and autonomous flight
+
 
  <h5>Historically:</h5>
   
