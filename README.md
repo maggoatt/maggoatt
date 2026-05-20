@@ -4,7 +4,7 @@
 
 <h5>Currently:</h5>
 
- - 🎋 exploring the potential of ML-based knowledge distillation with graph/hyper-graph neural networks @ UCI Reflexion Lab
+ - 🎋 exploring neuroanalysis with DL @ UCI Reflexion Lab (UROP 2026 Chancellor's Award - Data, Models, Intelligence)
   
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
 
