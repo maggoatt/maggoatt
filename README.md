@@ -4,19 +4,19 @@
 
 <h5>Currently:</h5>
 
- - 🎋 exploring neuroanalysis with DL @ UCI Reflexion Lab (UROP 2026 Chancellor's Award - Data, Models, Intelligence)
-  
- - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
+ - 🎋 classifying vigilance with ML @ UCI Reflexion Lab (UROP 2026 Chancellor's Award - Data, Models, Intelligence)
 
- - 🍀 incoming @ APL's Air and Missile Defense sector; building simulations for GN&C
+ - 🍀 incoming @ APL's Air and Missile Defense sector; building simulations for autonomous interceptors
   
  - 🌼 incoming @ NASA JPL's Simulation and Support Equipment Software group; building simulations for space avionics
 
 
  <h5>Historically:</h5>
+
+ - 🪷 drafted design and utility patents for software & consumer tech inventions @ Esplin & Associates
   
  - 🌿 implemented generation-to-speech concurrency for low-latency agent interactions; published @ ACM IDC '25
 
  - 🌷 instructed students on convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
 
-<h4>Driven by innovation, deeply interested in sensors, signals, simulations, and software-focused intellectual property.</h4>
+<h4>Driven by innovation, deeply interested in systems, simulations, and software-focused intellectual property.</h4>
