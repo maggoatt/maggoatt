@@ -9,6 +9,8 @@
  - 🪷 drafting design and utility patents for software & consumer tech inventions @ Esplin & Associates
 
  - 🍀 incoming @ APL's Air and Missile Defense sector; building simulations for GN&C
+  
+ - 🌼 incoming @ NASA JPL's Simulation and Support Equipment Software group; building simulations for space avionics
 
 
  <h5>Historically:</h5>
