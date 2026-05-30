@@ -8,7 +8,7 @@
 
  - 🍀 incoming @ APL's Air and Missile Defense sector; building simulations to train autonomous interceptors
   
- - 🌼 incoming @ NASA JPL's Simulation and Support Equipment Software group; building simulators for testing spacecraft
+ - 🌼 incoming @ NASA JPL's Simulation and Support Equipment Software group; building simulators for spacecraft testing
 
 
  <h5>Historically:</h5>
