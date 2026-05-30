@@ -6,9 +6,9 @@
 
  - 🎋 classifying vigilance with ML @ UCI Reflexion Lab (UROP 2026 Chancellor's Award - Data, Models, Intelligence)
 
- - 🍀 incoming @ APL's Air and Missile Defense sector; building simulations for autonomous interceptors
+ - 🍀 incoming @ APL's Air and Missile Defense sector; building simulations to train autonomous interceptors
   
- - 🌼 incoming @ NASA JPL's Simulation and Support Equipment Software group; building simulations for space avionics
+ - 🌼 incoming @ NASA JPL's Simulation and Support Equipment Software group; building simulators for testing spacecraft
 
 
  <h5>Historically:</h5>
