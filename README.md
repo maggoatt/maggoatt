@@ -4,7 +4,7 @@
 
 <h5>Currently:</h5>
   
- - 🌼 developing flight software and simulators for spacecraft testing @ NASA Jet Propulsion Laboratory
+ - 🌼 developing SSE software for MoonFall 2028 @ NASA Jet Propulsion Laboratory
 
 
  <h5>Historically:</h5>
