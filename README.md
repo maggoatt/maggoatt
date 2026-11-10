@@ -18,5 +18,3 @@
  - 🌿 implemented generation-to-speech concurrency for low-latency agent interactions; published @ ACM IDC '25
 
  - 🌷 instructed students on convolutional-recurrent neural networks and natural language processing @ MIT BeaverWorks '25
-
-<h4>Driven by innovation, deeply interested in systems, simulations, and software-focused intellectual property.</h4>
